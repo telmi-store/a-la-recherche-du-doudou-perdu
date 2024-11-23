@@ -2,7 +2,7 @@
 
 # [7+] A la recherche du doudou perdu (FR)
 
-**_"A la recherche du doudou perdu"_ est une escape game pour enfants de 7 ans et plus. Il peut être réalisé par un enfant de 5 ans et plus si il est accompagné d'un adulte.**
+**_"A la recherche du doudou perdu"_ est un escape game pour enfants de 7 ans et plus. Il peut être réalisé par un enfant de 5 ans et plus si il est accompagné d'un adulte.**
 
 Synopsis : Il est tard, tu ne trouves pas le sommeil... Tu cherches ton doudou partout dans ta chambre mais impossible de mettre la main dessus ! Si tu veux réussir à dormir, tu n'as pas le choix, tu dois d'abords partir à sa recherche... Attention le chemin sera rude et parsemé de pièges et d'égnimes. Seras-tu capable de relever ce défi ? 
 
